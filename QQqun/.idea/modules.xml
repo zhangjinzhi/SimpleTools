@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Automation_Operation/.idea/Automation_Operation.iml" filepath="$PROJECT_DIR$/../Automation_Operation/.idea/Automation_Operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DjangoExample/.idea/DjangoExample.iml" filepath="$PROJECT_DIR$/../DjangoExample/.idea/DjangoExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DjangoProject/.idea/DjangoProject.iml" filepath="$PROJECT_DIR$/../DjangoProject/.idea/DjangoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FenXi/.idea/FenXi.iml" filepath="$PROJECT_DIR$/../FenXi/.idea/FenXi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NeuralNetwork/.idea/NeuralNetwork.iml" filepath="$PROJECT_DIR$/../NeuralNetwork/.idea/NeuralNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PostPacket/.idea/PostPacket.iml" filepath="$PROJECT_DIR$/../PostPacket/.idea/PostPacket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/QQqun.iml" filepath="$PROJECT_DIR$/.idea/QQqun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SVM/.idea/SVM.iml" filepath="$PROJECT_DIR$/../SVM/.idea/SVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SeleniumPhantomJS/.idea/SeleniumPhantomJS.iml" filepath="$PROJECT_DIR$/../SeleniumPhantomJS/.idea/SeleniumPhantomJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ShenTou/.idea/ShenTou.iml" filepath="$PROJECT_DIR$/../ShenTou/.idea/ShenTou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../example/.idea/example.iml" filepath="$PROJECT_DIR$/../example/.idea/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gallery/.idea/gallery.iml" filepath="$PROJECT_DIR$/../gallery/.idea/gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../inBook/.idea/inBook.iml" filepath="$PROJECT_DIR$/../inBook/.idea/inBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test1/.idea/test1.iml" filepath="$PROJECT_DIR$/../test1/.idea/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/.idea/test2.iml" filepath="$PROJECT_DIR$/../test2/.idea/test2.iml" />
+    </modules>
+  </component>
+</project>

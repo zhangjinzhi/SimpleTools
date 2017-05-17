@@ -1,0 +1,146 @@
+<!doctype html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Python开发微信二维码通讯录系统【腾讯内部顶尖技术】- 强子老师</title>
+		<meta name="Keywords" content="关键词,关键词">
+		<meta name="description" content="">
+		
+		<style type="text/css">
+			*{margin:0;padding:0;}
+			body{font-size:12px;font-family:"微软雅黑";color:#666;}
+			img{border:0;}
+			
+			/*top start*/
+			.top{width:100%;height:50px;background:#252525;}
+			.top .t_header{width:1000px;height:50px;margin:0 auto;}
+			.top .t_header .t_logo{margin-top:10px;float:left;}
+			.top .t_header .t_desc{float:right;font-size:22px;color:#fff;line-height:50px;}
+			/*end top*/
+
+			/*banner start*/
+			.banner{width:100%;height:460px;background:url("static/images/banner.jpg") top center;}
+			.banner .b_box{width:1000px;height:460px;margin:0 auto;position:relative;}
+			.banner .b_box .b_info{width:500px;height:310px;position:absolute;bottom:0px;left:56px;}
+			.banner .b_box .b_info p{width:200px;height:40px;background:#2c2c29;border-radius:3px;float:left;margin: 15px 45px 0 0;}
+			.banner .b_box .b_info p span{background:#373733;width:50px;height:40px;display:inline-block;float:left;line-height:38px;font-size:14px;color:#FFF;text-align:center;border-radius:3px 0 0 3px;}
+			.banner .b_box .b_info p .b_txt{width:130px;height:28px;border:0;margin-top:5px;line-height:28px;padding-left:10px;background:#2c2c29;outline:none;color:#fff;border-radius: 3px 0 0 3px;}
+			.banner .b_box .b_info .b_login{width:445px;height:40px;ackground:none;margin-top:25px;}
+			.banner .b_box .b_info .b_login a{width:445px;height:40px;display:block;background:#44b549;text-align:center;line-height:40px;text-decoration:none;font-size:14px;color:#fff;font-weight:bold;border-radius:3px;}
+			.banner .b_box .b_info .b_login a:hover{background:#3C9D41;}
+			.banner .b_box .b_qrcode{width:235px;height:235px;position:absolute;top:130px;right:50px;}
+			/*end banner*/
+
+		</style>
+	<link type="text/css" rel="stylesheet" href="static/css/animate.css"></link>
+	</head>
+<body>
+
+	<!--top start-->
+	<div class="top">
+		<div class="t_header">
+			<div class="t_logo">
+				<a href="#">
+					<img src="static/images/logo.png" alt="潭州学院" width="144" height="33" />
+				</a>
+			</div>
+			<div class="t_desc">潭州教育微信二维码通讯录系统</div>
+		</div>
+	</div>
+	<!--end top-->
+
+	<!--banner start-->
+	<div class="banner">
+		<div class="b_box">
+
+			<!--b_info start-->
+			<div class="b_info">
+				<p>
+					<span>姓名：</span>
+					<input type="text" class="b_txt" id="name"/>
+				</p>
+				<p>
+					<span>公司：</span>
+					<input type="text" class="b_txt" id="company"/>
+				</p>
+				<p>
+					<span>职务：</span>
+					<input type="text" class="b_txt" id="title"/>
+				</p>
+				<p>
+					<span>地址：</span>
+					<input type="text" class="b_txt" id="address"/>
+				</p>
+				<p>
+					<span>手机：</span>
+					<input type="text" class="b_txt" id="mobile"/>
+				</p>
+				<p>
+					<span>邮箱：</span>
+					<input type="text" class="b_txt" id="email"/>
+				</p>
+				<p>
+					<span>网址：</span>
+					<input type="text" class="b_txt" id="url"/>
+				</p>
+				<p>
+					<span>备注：</span>
+					<input type="text" class="b_txt" id="desc"/>
+				</p>
+
+				<p class="b_login">
+					<a href="#" id="b_btn">开启通讯录</a>
+				</p>
+			
+			</div>
+			<!--end b_info-->
+		
+			<!--b_qrcode start-->
+			<div class="b_qrcode">
+				
+			</div>
+			<!--end b_qrcode-->
+
+		</div>
+	</div>
+	<!--end banner-->
+
+
+<script type="text/javascript" src="static/js/jquery.min.js"></script>
+<script type="text/javascript">
+	
+	jQuery(function(){
+		
+		//var name = "",company="",title="",address="",mobile="",email="",web="",desc="",info="";
+		
+		jQuery("#b_btn").click(function(){
+			var num = jQuery(".b_txt");
+			//console.log(num.length);
+			var info = '';
+			for(i=0;i<num.length;i++){
+				//console.log(num[i].value);
+				info += num[i].id + "=" + num[i].value
+				if (i < num.length-1){
+					info += "&"
+				}
+		};
+			
+			//console.log(info);
+			jQuery.ajax({
+				type:"post",
+				url:"/",
+				data:info,
+				success:function(data){
+					jQuery(".b_qrcode").html("<img id='qrcodeImg' alt='二维码通讯录' width='235' height='235' class='animated rollIn'/>");
+					jQuery("#qrcodeImg").attr("src",data);
+				}
+				
+			});
+			
+		});
+	});
+	
+</script>
+
+</body>
+</html>

@@ -1,0 +1,2674 @@
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381578
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(43, 666)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381578
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(49, 668)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381593
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(60, 670)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381593
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(72, 673)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381609
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(90, 680)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381609
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(108, 681)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381625
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(133, 682)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381625
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(162, 689)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381640
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(199, 694)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381640
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(230, 697)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381656
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(265, 697)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381656
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(301, 699)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381671
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(337, 703)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381671
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(376, 704)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381687
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(409, 708)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381687
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(438, 712)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381703
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(468, 719)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381703
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(501, 722)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381718
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(521, 729)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381718
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(545, 735)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381734
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(565, 742)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381734
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(578, 746)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381750
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(589, 749)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381750
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(599, 753)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381765
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(610, 759)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381765
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(619, 763)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:27
+MessageName:mouse move
+Message:512
+Time_sec:22381781
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(627, 766)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381781
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(636, 774)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381796
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(643, 779)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381796
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(649, 784)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381812
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(656, 789)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381812
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(663, 795)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381828
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(667, 799)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381828
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(675, 806)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381843
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(682, 811)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381843
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(687, 816)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381859
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(695, 822)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381875
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(698, 826)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381875
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(706, 833)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381890
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(711, 837)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381890
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(717, 842)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381906
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(722, 845)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381906
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(726, 848)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381921
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(732, 852)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381921
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(738, 857)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381937
+Window:65796
+WindowName:运行中的应用程序
+Position:(742, 861)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381937
+Window:65796
+WindowName:运行中的应用程序
+Position:(747, 864)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381953
+Window:65796
+WindowName:运行中的应用程序
+Position:(753, 868)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381953
+Window:65796
+WindowName:运行中的应用程序
+Position:(756, 869)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381968
+Window:65796
+WindowName:运行中的应用程序
+Position:(761, 872)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381968
+Window:65796
+WindowName:运行中的应用程序
+Position:(767, 876)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381984
+Window:65796
+WindowName:运行中的应用程序
+Position:(773, 879)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22381984
+Window:65796
+WindowName:运行中的应用程序
+Position:(776, 881)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382000
+Window:65796
+WindowName:运行中的应用程序
+Position:(782, 885)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382000
+Window:65796
+WindowName:运行中的应用程序
+Position:(788, 887)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382015
+Window:65796
+WindowName:运行中的应用程序
+Position:(795, 890)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382015
+Window:65796
+WindowName:运行中的应用程序
+Position:(799, 892)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382031
+Window:65796
+WindowName:运行中的应用程序
+Position:(806, 895)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382031
+Window:65796
+WindowName:运行中的应用程序
+Position:(812, 898)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382046
+Window:0
+WindowName:None
+Position:(817, 901)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382046
+Window:0
+WindowName:None
+Position:(824, 902)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382062
+Window:0
+WindowName:None
+Position:(829, 900)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382062
+Window:0
+WindowName:None
+Position:(831, 900)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382078
+Window:0
+WindowName:None
+Position:(833, 901)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382078
+Window:65796
+WindowName:运行中的应用程序
+Position:(836, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382093
+Window:65796
+WindowName:运行中的应用程序
+Position:(837, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382093
+Window:0
+WindowName:None
+Position:(840, 900)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382109
+Window:65796
+WindowName:运行中的应用程序
+Position:(841, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382109
+Window:65796
+WindowName:运行中的应用程序
+Position:(843, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382125
+Window:65796
+WindowName:运行中的应用程序
+Position:(844, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382125
+Window:65796
+WindowName:运行中的应用程序
+Position:(846, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382140
+Window:65796
+WindowName:运行中的应用程序
+Position:(847, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382140
+Window:65796
+WindowName:运行中的应用程序
+Position:(848, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382156
+Window:65796
+WindowName:运行中的应用程序
+Position:(850, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382156
+Window:65796
+WindowName:运行中的应用程序
+Position:(851, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382171
+Window:65796
+WindowName:运行中的应用程序
+Position:(853, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382187
+Window:65796
+WindowName:运行中的应用程序
+Position:(857, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382187
+Window:65796
+WindowName:运行中的应用程序
+Position:(860, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382203
+Window:65796
+WindowName:运行中的应用程序
+Position:(864, 899)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382203
+Window:65796
+WindowName:运行中的应用程序
+Position:(869, 897)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382218
+Window:65796
+WindowName:运行中的应用程序
+Position:(872, 897)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382218
+Window:65796
+WindowName:运行中的应用程序
+Position:(879, 895)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382234
+Window:65796
+WindowName:运行中的应用程序
+Position:(881, 893)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382234
+Window:65796
+WindowName:运行中的应用程序
+Position:(885, 891)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382250
+Window:65796
+WindowName:运行中的应用程序
+Position:(889, 889)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382250
+Window:65796
+WindowName:运行中的应用程序
+Position:(893, 887)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382265
+Window:65796
+WindowName:运行中的应用程序
+Position:(896, 885)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382265
+Window:65796
+WindowName:运行中的应用程序
+Position:(898, 885)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382281
+Window:65796
+WindowName:运行中的应用程序
+Position:(900, 883)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382281
+Window:65796
+WindowName:运行中的应用程序
+Position:(902, 882)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382296
+Window:65796
+WindowName:运行中的应用程序
+Position:(904, 881)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382390
+Window:65796
+WindowName:运行中的应用程序
+Position:(904, 880)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382546
+Window:65796
+WindowName:运行中的应用程序
+Position:(904, 879)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382546
+Window:65796
+WindowName:运行中的应用程序
+Position:(904, 879)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382562
+Window:65796
+WindowName:运行中的应用程序
+Position:(903, 878)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382562
+Window:65796
+WindowName:运行中的应用程序
+Position:(902, 878)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382578
+Window:65796
+WindowName:运行中的应用程序
+Position:(901, 877)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382593
+Window:65796
+WindowName:运行中的应用程序
+Position:(900, 877)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382593
+Window:65796
+WindowName:运行中的应用程序
+Position:(899, 877)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382609
+Window:65796
+WindowName:运行中的应用程序
+Position:(898, 876)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382609
+Window:65796
+WindowName:运行中的应用程序
+Position:(898, 876)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382625
+Window:65796
+WindowName:运行中的应用程序
+Position:(896, 874)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382625
+Window:65796
+WindowName:运行中的应用程序
+Position:(893, 872)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382640
+Window:65800
+WindowName:None
+Position:(889, 869)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382640
+Window:65800
+WindowName:None
+Position:(885, 866)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382656
+Window:65800
+WindowName:None
+Position:(880, 861)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382656
+Window:65800
+WindowName:None
+Position:(871, 854)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382671
+Window:65800
+WindowName:None
+Position:(861, 846)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382671
+Window:65800
+WindowName:None
+Position:(849, 834)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382687
+Window:65800
+WindowName:None
+Position:(840, 824)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382687
+Window:65800
+WindowName:None
+Position:(829, 808)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382703
+Window:65800
+WindowName:None
+Position:(812, 788)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382703
+Window:65800
+WindowName:None
+Position:(793, 764)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382718
+Window:65800
+WindowName:None
+Position:(778, 741)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382718
+Window:65800
+WindowName:None
+Position:(762, 719)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382734
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(747, 695)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382734
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(736, 677)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382750
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(718, 652)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382750
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(699, 624)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382765
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(687, 603)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382765
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(675, 582)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:28
+MessageName:mouse move
+Message:512
+Time_sec:22382781
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(667, 567)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382781
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(660, 556)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382796
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(655, 546)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382796
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(652, 539)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382812
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(651, 534)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382812
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(648, 527)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382828
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(647, 521)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382828
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(645, 516)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382843
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(643, 511)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382843
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(642, 507)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382859
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(642, 504)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382875
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(641, 502)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382875
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(639, 498)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382890
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(638, 496)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382890
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(638, 494)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382906
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(637, 492)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382906
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(635, 489)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382921
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(634, 487)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382921
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(633, 486)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382937
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(631, 483)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382937
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(630, 483)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382953
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(630, 482)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382953
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(629, 482)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382968
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(629, 482)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382968
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(628, 481)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22382984
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(626, 481)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383000
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(625, 480)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383000
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(624, 480)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383015
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(622, 480)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383015
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(621, 480)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383031
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(618, 481)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383031
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(614, 485)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383046
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(611, 488)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383046
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(608, 490)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383062
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(605, 494)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383062
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(602, 499)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383078
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(600, 501)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383078
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(598, 504)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383093
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(597, 507)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383093
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(595, 508)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383109
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(594, 511)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383109
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(593, 513)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383125
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(592, 514)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383125
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(592, 515)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383140
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(592, 516)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383140
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(590, 518)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383156
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(590, 518)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383187
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(589, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383203
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(588, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383343
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(587, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383375
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(587, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383453
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(586, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383468
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(585, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383484
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(584, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383500
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(582, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383500
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(578, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383515
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(576, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383515
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(572, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383531
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(570, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383546
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(567, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383546
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(563, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383562
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(560, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383562
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(557, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383578
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(554, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383578
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(552, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383593
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(550, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383593
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(548, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383609
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(548, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383609
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(547, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383625
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(546, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383640
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(545, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383656
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(545, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383671
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(544, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383687
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(542, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383703
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(542, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383703
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(541, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383718
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(540, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383718
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(538, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383734
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(538, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383734
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(537, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383750
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(536, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383750
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(536, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:29
+MessageName:mouse move
+Message:512
+Time_sec:22383765
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(535, 520)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:30
+MessageName:mouse left down
+Message:513
+Time_sec:22384125
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(535, 520)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:30
+MessageName:mouse left up
+Message:514
+Time_sec:22384265
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(535, 520)
+--------------------MouseEvent End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:32
+MessageName:key down
+Message:256
+Time:22385875
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:32
+MessageName:key down
+Message:256
+Time:22386203
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:32
+MessageName:key down
+Message:256
+Time:22386515
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:33
+MessageName:key down
+Message:256
+Time:22386781
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:33
+MessageName:key down
+Message:256
+Time:22386984
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:33
+MessageName:key down
+Message:256
+Time:22387171
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:33
+MessageName:key down
+Message:256
+Time:22387453
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:33
+MessageName:key down
+Message:256
+Time:22387703
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:34
+MessageName:key down
+Message:256
+Time:22387921
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:34
+MessageName:key down
+Message:256
+Time:22388125
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:34
+MessageName:key down
+Message:256
+Time:22388328
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:34
+MessageName:key down
+Message:256
+Time:22388531
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:34
+MessageName:key down
+Message:256
+Time:22388734
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:35
+MessageName:key down
+Message:256
+Time:22388968
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------Keyboard Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:35
+MessageName:key down
+Message:256
+Time:22389203
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Ascii_code: 32
+Ascii_char: 
+Key:Space
+--------------------Keyboard End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:35
+MessageName:mouse left down
+Message:513
+Time_sec:22389781
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(535, 520)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse left up
+Message:514
+Time_sec:22389890
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(535, 520)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390109
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(533, 520)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390125
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(529, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390125
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(523, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390140
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(514, 519)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390140
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(506, 522)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390156
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(497, 524)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390156
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(492, 526)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390171
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(482, 528)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390171
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(472, 531)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390187
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(464, 534)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390203
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(456, 537)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390203
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(449, 539)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390218
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(442, 540)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390218
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(436, 543)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390234
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(430, 545)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390234
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(424, 547)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390250
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(419, 551)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390250
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(412, 554)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390265
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(406, 558)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390265
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(399, 564)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390281
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(390, 569)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390281
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(382, 573)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390296
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(372, 580)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390296
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(363, 584)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390312
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(351, 590)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390312
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(340, 595)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390328
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(326, 601)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390328
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(308, 609)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390343
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(293, 616)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390343
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(278, 622)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390359
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(264, 628)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390359
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(246, 635)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390375
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(232, 639)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390375
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(218, 644)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390390
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(202, 648)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390390
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(189, 651)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390406
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(175, 653)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390406
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(163, 658)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390421
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(151, 661)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390421
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(140, 663)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390437
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(127, 664)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390437
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(116, 668)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390453
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(105, 670)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390453
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(95, 671)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390468
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(86, 673)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390468
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(78, 673)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390484
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(70, 674)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390484
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(63, 675)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390500
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(59, 675)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390500
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(53, 675)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390515
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(49, 677)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390531
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(46, 677)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390531
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(43, 677)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390562
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(43, 677)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390640
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(41, 677)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390640
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(38, 678)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390656
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(33, 679)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390656
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(30, 681)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390671
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(27, 683)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390671
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(26, 683)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390687
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(25, 684)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390687
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(24, 685)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390703
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(23, 686)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390703
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(22, 686)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:36
+MessageName:mouse move
+Message:512
+Time_sec:22390718
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(22, 687)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:37
+MessageName:mouse move
+Message:512
+Time_sec:22390937
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(22, 688)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:37
+MessageName:mouse left down
+Message:513
+Time_sec:22390953
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(22, 688)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:37
+MessageName:mouse left up
+Message:514
+Time_sec:22391046
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(22, 688)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:37
+MessageName:mouse move
+Message:512
+Time_sec:22391406
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(22, 688)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:37
+MessageName:mouse move
+Message:512
+Time_sec:22391421
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:\PycharmProject\ShenTou\Compelete\Step1SimpleHook\RecordKeyboardMouse.py - PyCharm Community Edition 5.0.5
+Position:(22, 688)
+--------------------MouseEvent End--------------------
+--------------------MouseEvent Begin--------------------
+Current Time:Sun, 13 Nov 2016 06:58:37
+MessageName:mouse move
+Message:512
+Time_sec:22391437
+Window:918696
+WindowName:QQqun - [E:\PycharmProject\QQqun] - E:

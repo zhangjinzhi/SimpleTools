@@ -1,0 +1,68 @@
+area,population,iso,country,capital,continent,tld,currency_code,currency_name,phone,postal_code_format,postal_code_regex,languages,neighbours
+"390,580 square kilometres","11,651,858",ZW,Zimbabwe,Harare,AF,.zw,ZWL,Dollar,263,,,"en-ZW,sn,nr,nd",ZA MZ BW ZM 
+"752,614 square kilometres","13,460,305",ZM,Zambia,Lusaka,AF,.zm,ZMW,Kwacha,260,#####,^(\d{5})$,"en-ZM,bem,loz,lun,lue,ny,toi",ZW TZ MZ CD NA MW AO 
+"527,970 square kilometres","23,495,361",YE,Yemen,Sanaa,AS,.ye,YER,Rial,967,,,ar-YE,SA OM 
+"266,000 square kilometres","273,008",EH,Western Sahara,El-Aaiun,AF,.eh,MAD,Dirham,212,,,"ar,mey",DZ MR MA 
+274 square kilometres,"16,025",WF,Wallis and Futuna,Mata Utu,OC,.wf,XPF,Franc,681,#####,^(986\d{2})$,"wls,fud,fr-WF", 
+"329,560 square kilometres","89,571,130",VN,Vietnam,Hanoi,AS,.vn,VND,Dong,84,######,^(\d{6})$,"vi,en,fr,zh,km",CN LA KH 
+"912,050 square kilometres","27,223,228",VE,Venezuela,Caracas,SA,.ve,VEF,Bolivar,58,####,^(\d{4})$,es-VE,GY BR CO 
+0 square kilometres,921,VA,Vatican,Vatican City,EU,.va,EUR,Euro,379,#####,^(\d{5})$,"la,it,fr",IT 
+"12,200 square kilometres","221,552",VU,Vanuatu,Port Vila,OC,.vu,VUV,Vatu,678,,,"bi,en-VU,fr-VU", 
+"447,400 square kilometres","27,865,738",UZ,Uzbekistan,Tashkent,AS,.uz,UZS,Som,998,######,^(\d{6})$,"uz,ru,tg",TM AF KG TJ KZ 
+"176,220 square kilometres","3,477,000",UY,Uruguay,Montevideo,SA,.uy,UYU,Peso,598,#####,^(\d{5})$,es-UY,BR AR 
+0 square kilometres,0,UM,United States Minor Outlying Islands,,OC,.um,USD,Dollar,1,,,en-UM, 
+"9,629,091 square kilometres","310,232,863",US,United States,Washington,NA,.us,USD,Dollar,1,#####-####,^\d{5}(-\d{4})?$,"en-US,es-US,haw,fr",CA MX CU 
+"244,820 square kilometres","62,348,447",GB,United Kingdom,London,EU,.uk,GBP,Pound,44,@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA,^(([A-Z]\d{2}[A-Z]{2})|([A-Z]\d{3}[A-Z]{2})|([A-Z]{2}\d{2}[A-Z]{2})|([A-Z]{2}\d{3}[A-Z]{2})|([A-Z]\d[A-Z]\d[A-Z]{2})|([A-Z]{2}\d[A-Z]\d[A-Z]{2})|(GIR0AA))$,"en-GB,cy-GB,gd",IE 
+"82,880 square kilometres","4,975,593",AE,United Arab Emirates,Abu Dhabi,AS,.ae,AED,Dirham,971,,,"ar-AE,fa,en,hi,ur",SA OM 
+"603,700 square kilometres","45,415,596",UA,Ukraine,Kiev,EU,.ua,UAH,Hryvnia,380,#####,^(\d{5})$,"uk,ru-UA,rom,pl,hu",PL MD HU SK BY RO RU 
+"236,040 square kilometres","33,398,682",UG,Uganda,Kampala,AF,.ug,UGX,Shilling,256,,,"en-UG,lg,sw,ar",TZ KE SS CD RW 
+352 square kilometres,"108,708",VI,U.S. Virgin Islands,Charlotte Amalie,NA,.vi,USD,Dollar,+1-340,#####-####,^\d{5}(-\d{4})?$,en-VI, 
+26 square kilometres,"10,472",TV,Tuvalu,Funafuti,OC,.tv,AUD,Dollar,688,,,"tvl,en,sm,gil", 
+430 square kilometres,"20,556",TC,Turks and Caicos Islands,Cockburn Town,NA,.tc,USD,Dollar,+1-649,TKCA 1ZZ,^(TKCA 1ZZ)$,en-TC, 
+"488,100 square kilometres","4,940,916",TM,Turkmenistan,Ashgabat,AS,.tm,TMT,Manat,993,######,^(\d{6})$,"tk,ru,uz",AF IR UZ KZ 
+"780,580 square kilometres","77,804,122",TR,Turkey,Ankara,AS,.tr,TRY,Lira,90,#####,^(\d{5})$,"tr-TR,ku,diq,az,av",SY GE IQ IR GR AM AZ BG 
+"163,610 square kilometres","10,589,025",TN,Tunisia,Tunis,AF,.tn,TND,Dinar,216,####,^(\d{4})$,"ar-TN,fr",DZ LY 
+"5,128 square kilometres","1,228,691",TT,Trinidad and Tobago,Port of Spain,NA,.tt,TTD,Dollar,+1-868,,,"en-TT,hns,fr,es,zh", 
+748 square kilometres,"122,580",TO,Tonga,Nuku'alofa,OC,.to,TOP,Pa'anga,676,,,"to,en-TO", 
+10 square kilometres,"1,466",TK,Tokelau,,OC,.tk,NZD,Dollar,690,,,"tkl,en-TK", 
+"56,785 square kilometres","6,587,239",TG,Togo,Lome,AF,.tg,XOF,Franc,228,,,"fr-TG,ee,hna,kbp,dag,ha",BJ GH BF 
+"514,000 square kilometres","67,089,500",TH,Thailand,Bangkok,AS,.th,THB,Baht,66,#####,^(\d{5})$,"th,en",LA MM KH MY 
+"945,087 square kilometres","41,892,895",TZ,Tanzania,Dodoma,AF,.tz,TZS,Shilling,255,,,"sw-TZ,en,ar",MZ KE CD RW ZM BI UG MW 
+"143,100 square kilometres","7,487,489",TJ,Tajikistan,Dushanbe,AS,.tj,TJS,Somoni,992,######,^(\d{6})$,"tg,ru",CN AF KG UZ 
+"35,980 square kilometres","22,894,384",TW,Taiwan,Taipei,AS,.tw,TWD,Dollar,886,#####,^(\d{5})$,"zh-TW,zh,nan,hak", 
+"185,180 square kilometres","22,198,110",SY,Syria,Damascus,AS,.sy,SYP,Pound,963,,,"ar-SY,ku,hy,arc,fr,en",IQ JO IL TR LB 
+"41,290 square kilometres","7,581,000",CH,Switzerland,Berne,EU,.ch,CHF,Franc,41,####,^(\d{4})$,"de-CH,fr-CH,it-CH,rm",DE IT LI FR AT 
+"449,964 square kilometres","9,555,893",SE,Sweden,Stockholm,EU,.se,SEK,Krona,46,### ##,^(?:SE)*(\d{5})$,"sv-SE,se,sma,fi-SE",NO FI 
+"17,363 square kilometres","1,354,051",SZ,Swaziland,Mbabane,AF,.sz,SZL,Lilangeni,268,@###,^([A-Z]\d{3})$,"en-SZ,ss-SZ",ZA MZ 
+"62,049 square kilometres","2,550",SJ,Svalbard and Jan Mayen,Longyearbyen,EU,.sj,NOK,Krone,47,,,"no,ru", 
+"163,270 square kilometres","492,829",SR,Suriname,Paramaribo,SA,.sr,SRD,Dollar,597,,,"nl-SR,en,srn,hns,jv",GY BR GF 
+"1,861,484 square kilometres","35,000,000",SD,Sudan,Khartoum,AF,.sd,SDG,Pound,249,#####,^(\d{5})$,"ar-SD,en,fia",SS TD EG ET ER LY CF 
+"65,610 square kilometres","21,513,990",LK,Sri Lanka,Colombo,AS,.lk,LKR,Rupee,94,#####,^(\d{5})$,"si,ta,en", 
+"504,782 square kilometres","46,505,963",ES,Spain,Madrid,EU,.es,EUR,Euro,34,#####,^(\d{5})$,"es-ES,ca,gl,eu,oc",AD PT GI FR MA 
+"644,329 square kilometres","8,260,490",SS,South Sudan,Juba,AF,,SSP,Pound,211,,,en,CD CF ET KE SD UG  
+"98,480 square kilometres","48,422,644",KR,South Korea,Seoul,AS,.kr,KRW,Won,82,SEOUL ###-###,^(?:SEOUL)*(\d{6})$,"ko-KR,en",KP 
+"3,903 square kilometres",30,GS,South Georgia and the South Sandwich Islands,Grytviken,AN,.gs,GBP,Pound,,,,en, 
+"1,219,912 square kilometres","49,000,000",ZA,South Africa,Pretoria,AF,.za,ZAR,Rand,27,####,^(\d{4})$,"zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",ZW SZ MZ BW NA LS 
+"637,657 square kilometres","10,112,453",SO,Somalia,Mogadishu,AF,.so,SOS,Shilling,252,@@  #####,^([A-Z]{2}\d{5})$,"so-SO,ar-SO,it,en-SO",ET KE DJ 
+"28,450 square kilometres","559,198",SB,Solomon Islands,Honiara,OC,.sb,SBD,Dollar,677,,,"en-SB,tpi", 
+"20,273 square kilometres","2,007,000",SI,Slovenia,Ljubljana,EU,.si,EUR,Euro,386,####,^(?:SI)*(\d{4})$,"sl,sh",HU IT HR AT 
+"48,845 square kilometres","5,455,000",SK,Slovakia,Bratislava,EU,.sk,EUR,Euro,421,### ##,^(\d{5})$,"sk,hu",PL HU CZ UA AT 
+34 square kilometres,"37,429",SX,Sint Maarten,Philipsburg,NA,.sx,ANG,Guilder,599,,,"nl,en",MF 
+692 square kilometres,"4,701,069",SG,Singapore,Singapur,AS,.sg,SGD,Dollar,65,######,^(\d{6})$,"cmn,en-SG,ms-SG,ta-SG,zh-SG", 
+"71,740 square kilometres","5,245,695",SL,Sierra Leone,Freetown,AF,.sl,SLL,Leone,232,,,"en-SL,men,tem",LR GN 
+455 square kilometres,"88,340",SC,Seychelles,Victoria,AF,.sc,SCR,Rupee,248,,,"en-SC,fr-SC", 
+"102,350 square kilometres","10,829,175",CS,Serbia and Montenegro,Belgrade,EU,.cs,RSD,Dinar,381,#####,^(\d{5})$,"cu,hu,sq,sr",AL HU MK RO HR BA BG 
+"88,361 square kilometres","7,344,847",RS,Serbia,Belgrade,EU,.rs,RSD,Dinar,381,######,^(\d{6})$,"sr,hu,bs,rom",AL HU MK RO HR BA BG ME XK 
+"196,190 square kilometres","12,323,252",SN,Senegal,Dakar,AF,.sn,XOF,Franc,221,#####,^(\d{5})$,"fr-SN,wo,fuc,mnk",GN MR GW GM ML 
+"1,960,582 square kilometres","25,731,776",SA,Saudi Arabia,Riyadh,AS,.sa,SAR,Rial,966,#####,^(\d{5})$,ar-SA,QA OM IQ YE JO AE KW 
+"1,001 square kilometres","175,808",ST,Sao Tome and Principe,Sao Tome,AF,.st,STD,Dobra,239,,,pt-ST, 
+61 square kilometres,"31,477",SM,San Marino,San Marino,EU,.sm,EUR,Euro,378,4789#,^(4789\d)$,it-SM,IT 
+"2,944 square kilometres","192,001",WS,Samoa,Apia,OC,.ws,WST,Tala,685,,,"sm,en-WS", 
+389 square kilometres,"104,217",VC,Saint Vincent and the Grenadines,Kingstown,NA,.vc,XCD,Dollar,+1-784,,,"en-VC,fr", 
+242 square kilometres,"7,012",PM,Saint Pierre and Miquelon,Saint-Pierre,NA,.pm,EUR,Euro,508,#####,^(97500)$,fr-PM, 
+53 square kilometres,"35,925",MF,Saint Martin,Marigot,NA,.gp,EUR,Euro,590,### ###,,fr,SX 
+616 square kilometres,"160,922",LC,Saint Lucia,Castries,NA,.lc,XCD,Dollar,+1-758,,,en-LC, 
+261 square kilometres,"51,134",KN,Saint Kitts and Nevis,Basseterre,NA,.kn,XCD,Dollar,+1-869,,,en-KN, 
+410 square kilometres,"7,460",SH,Saint Helena,Jamestown,AF,.sh,SHP,Pound,290,STHL 1ZZ,^(STHL1ZZ)$,en-SH, 
+21 square kilometres,"8,450",BL,Saint Barthelemy,Gustavia,NA,.gp,EUR,Euro,590,### ###,,fr, 
+"26,338 square kilometres","11,055,976",RW,Rwanda,Kigali,AF,.rw,RWF,Franc,250,,,"rw,en-
