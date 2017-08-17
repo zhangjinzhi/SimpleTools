@@ -9,7 +9,7 @@ mail_to_list=["584392383@qq.com","1359980618@qq.com"]
 #对于大型的邮件服务器，有反垃圾邮件的功能，必须登录后才能发邮件，如126,163
 mail_server="smtp.163.com"         # 126的邮件服务器
 mail_username="18202723109@163.com"   #必须是真实存在的用户，这里我测试的时候写了自己的126邮箱
-mail_passwd="zhang4818774"               #必须是对应上面用户的正确密码，我126邮箱对应的密码
+mail_passwd=""               #必须是对应上面用户的正确密码，我126邮箱对应的密码
 
 def send_mail(to_list,sub,content):
     '''
