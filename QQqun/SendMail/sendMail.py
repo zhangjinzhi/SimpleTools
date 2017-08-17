@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 mail_list = ["1666925105@qq.com",] #收件箱
 mail_host = "smtp.exmail.qq.com"  #邮件服务器
 mail_username = "584392383@qq.com"#发件箱
-mail_password = "zhang4818774"  #密码
+mail_password = ""  #密码
 
 def send_mail(text,to_mail):
     my = "python发邮件测试" + "<" + mail_username + ">"
